@@ -6,12 +6,12 @@ Este codigo nos ayudara al ingreso de notas de estudiantes, asi mismo podremos m
 ### Pre-requisitos 📋
 
 Compilador de C++
+***
 ID Qt Creator
 
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Ubuntu](https://ubuntu.com/) - El sistema operativo utilizado
 * [QT creator](https://www.qt.io/product) - Id utilizado para codificar
